@@ -33,8 +33,12 @@
 *.log
 .DS_Store
 
+node_modules/
+
 # htaccess
-#/.htaccess
+/.htaccess
+/.htaccess.bk
+/.private/
 
 # All plugins
 #
